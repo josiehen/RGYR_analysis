@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/2.7/bin/python
+#!/Users/josiehen/anaconda/bin/python
 
 # USAGE:
 # ./rgyr.py system_descripter pdb_file traj_file 

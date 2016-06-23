@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/2.7/bin/python
+#!/Users/josiehen/anaconda/bin/python
 # USAGE:
 
 # PREAMBLE:
@@ -18,7 +18,7 @@ system1 = sys.argv[2]
 
 datalist1 = np.loadtxt(dat1)
 
-nSteps = len(datalist1[:,0])
+nSteps = len(datalist1)
 
 time = np.zeros(nSteps)
 
